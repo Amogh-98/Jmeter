@@ -1,1 +1,1 @@
-# Jmeter
+# Contains Jmeter setup & configuration 
